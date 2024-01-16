@@ -1,0 +1,10 @@
+- New --> C/C++ Project
+- C Managed Built
+- Hello World ANSI Project --> Cross GCC
+- Darle al martillo de la derecha
+- Abrir el terminal
+- scp /home/osboxes/src/pbl/proiektuarenIzena/Debug/proiektuarenIzena pi@ipHelbidea:/home/pi
+- ssh pi@ipHelbidea
+- cd /home/pi
+- ./proiektuarenIzena
+- Proiektuan jarritakoa pantailan ejekutatu egingo da

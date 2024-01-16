@@ -1,0 +1,69 @@
+id: A
+hasiera: A, amaiera: B, orientazioa: 2, pisua: 1
+
+id: B
+hasiera: B, amaiera: A, orientazioa: 0, pisua: 1
+hasiera: B, amaiera: H, orientazioa: 3, pisua: 4
+hasiera: B, amaiera: C, orientazioa: 2, pisua: 1
+
+id: C
+hasiera: C, amaiera: B, orientazioa: 0, pisua: 1
+hasiera: C, amaiera: D, orientazioa: 3, pisua: 1
+
+id: D
+hasiera: D, amaiera: C, orientazioa: 1, pisua: 1
+hasiera: D, amaiera: E, orientazioa: 2, pisua: 3
+hasiera: D, amaiera: F, orientazioa: 3, pisua: 1
+
+id: E
+hasiera: E, amaiera: D, orientazioa: 0, pisua: 3
+hasiera: E, amaiera: P, orientazioa: 3, pisua: 6
+
+id: F
+hasiera: F, amaiera: D, orientazioa: 1, pisua: 1
+hasiera: F, amaiera: G, orientazioa: 2, pisua: 2
+hasiera: F, amaiera: I, orientazioa: 3, pisua: 2
+
+id: G
+hasiera: G, amaiera: F, orientazioa: 0, pisua: 2
+hasiera: G, amaiera: N, orientazioa: 3, pisua: 4
+
+id: H
+hasiera: H, amaiera: B, orientazioa: 1, pisua: 4
+hasiera: H, amaiera: I, orientazioa: 2, pisua: 1
+hasiera: H, amaiera: K, orientazioa: 3, pisua: 4
+
+id: I
+hasiera: I, amaiera: F, orientazioa: 1, pisua: 2
+hasiera: I, amaiera: H, orientazioa: 0, pisua: 1
+hasiera: I, amaiera: M, orientazioa: 3, pisua: 2
+
+id: J
+hasiera: J, amaiera: K, orientazioa: 2, pisua: 1
+
+id: K
+hasiera: K, amaiera: J, orientazioa: 0, pisua: 1
+hasiera: K, amaiera: H, orientazioa: 1, pisua: 4
+hasiera: K, amaiera: L, orientazioa: 2, pisua: 1
+
+id: L
+hasiera: L, amaiera: K, orientazioa: 0, pisua: 1
+hasiera: L, amaiera: O, orientazioa: 1, pisua: 1
+
+id: M
+hasiera: M, amaiera: I, orientazioa: 1, pisua: 2
+hasiera: M, amaiera: N, orientazioa: 2, pisua: 2
+hasiera: M, amaiera: O, orientazioa: 3, pisua: 1
+
+id: N
+hasiera: N, amaiera: G, orientazioa: 1, pisua: 4
+hasiera: N, amaiera: M, orientazioa: 0, pisua: 2
+
+id: O
+hasiera: O, amaiera: M, orientazioa: 1, pisua: 1
+hasiera: O, amaiera: P, orientazioa: 2, pisua: 3
+hasiera: O, amaiera: L, orientazioa: 3, pisua: 1
+
+id: P
+hasiera: R, amaiera: E, orientazioa: 1, pisua: 6
+hasiera: R, amaiera: O, orientazioa: 0, pisua: 3
