@@ -1,3 +1,3 @@
 # Coche Autonomo
-Bideoa / Bideo / Video:
+Bideoa / Video : 
 https://youtu.be/ImdW57rirQo
